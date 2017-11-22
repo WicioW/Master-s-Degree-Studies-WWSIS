@@ -1,0 +1,29 @@
+Implement Bubblesort.
+
+In:
+Number n (1<=n<=1000)
+n natural numbers ai(1<=ai<=1 000 000 000)
+Out:
+You need to write down k rows,where k is needed number of iterations needed to sort provided array of numbers. 
+In each row you need to write an array after each iteration.
+In last row there should be sorted array.
+If given array is sorted, program should write anything.
+
+Examples:
+In:
+5
+1 2 3 5 4
+Out:
+1 2 3 4 5
+_____________
+In:
+5
+5 9 3 1 2
+Out:
+5 3 1 2 9
+3 1 2 5 9
+1 2 3 5 9
+____________
+In: 5
+10 100 1000 10000 100000
+Out:

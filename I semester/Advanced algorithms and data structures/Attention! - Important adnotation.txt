@@ -1,0 +1,9 @@
+All programs are written in C++.
+
+Some programs in this folder may seem to be writen poorly(by today's standards)
+or withoutnthinking about memory/time consumption. 
+Some code lines may seem unnecessary too.
+F.e. creating array of 2000 elements instead of user inserted number.
+It is sometimes written this way only because Themis(online problem judge)
+needs it(Themis is similar to SPOJ) to accept code and give points
+for particular problem solution. 

@@ -1,0 +1,26 @@
+Calculate length of shortest line, which ends are in provided set of points.
+
+In:
+Number n(2<=n<=1000000)
+In next lines there are pairs of integer numbers x,y. (0<=x,y<=1000000000)
+which are coordinates of each point. You can assume there won't be two the same points.
+Out:
+Length of shortest line with exactly 5 digits after the coma.
+
+Example:
+In:
+5
+0 2
+5 7
+2 0
+5 4
+6 6
+Out:
+1.41421
+__________
+In:
+2
+3 3
+3 5
+Out:
+2.00000

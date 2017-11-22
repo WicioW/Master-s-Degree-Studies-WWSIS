@@ -1,0 +1,18 @@
+Frank has his own deck of cards. On every one of n cards he has written
+an integer number with absolute value not bigger than 1000. His deck of cards
+is not normal, so he wonders how many cards are there with number 
+that appears in deck odd number of times. 
+
+In:
+In first line the is one number n(1<=n<=10^6) telling how many cards are in the deck.
+In next line the are n numbers - that we know are in deck and are from interval of numbers[-1000, 1000].
+Out:
+Write all numbers that appear odd number of times in the deck. 
+Write them in ascending order.
+
+Example:
+In:
+5
+13 2 2 3 3
+Out:
+13

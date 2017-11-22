@@ -1,0 +1,25 @@
+One day Frank, found positive number N on the street.
+Frank also likes number 30. He wants to change order of digits in N
+to make it divisible by 30. How big number can he get?
+
+In: 
+In one line there is a number N having at least 100000 digits.
+Out:
+Write down the number searched for in the task, 
+or -1 if it does not exist.
+
+Examples:
+In:
+30
+Out:
+30
+_____
+In: 
+120
+Out:
+210
+_____
+In:
+2931
+Out:
+-1

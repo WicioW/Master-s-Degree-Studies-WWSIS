@@ -1,0 +1,20 @@
+Frank likes games and he has a new one in style of hopscotch.
+You have numbers written down on each square from 0 to n-1,
+where n is the number of squares. On every square there is only one number x.
+Meaning that from this square you have to jump to square of number x. 
+In the begging Frank is on the square number 0. Additionaly we know that by
+following each square we always end up on the square number 0. Write a program that
+will write down each number written on square that Frank is standing.
+
+In:
+Number n <1000.
+N numbers of a_i. a_i is number on #i square.
+Out:
+Numbers b_1 ... b_k of each step of the cycle.(Respectively each square on which Frank is standing)
+
+Example:
+In:
+8
+3 5 1 6 4 7 0 2
+Out:
+0 3 6

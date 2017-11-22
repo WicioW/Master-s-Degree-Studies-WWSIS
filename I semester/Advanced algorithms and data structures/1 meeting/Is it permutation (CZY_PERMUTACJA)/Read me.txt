@@ -1,0 +1,22 @@
+There is a string of numbers. 
+Lets say this string is permutation if it has digits from 1 to n. 
+Write a program that checks if provided string is permutation.
+
+In:
+In first line there is number n<=10^6.
+In second line there are n numbers a_1,a_2, ... ,a_n. That 1<=a_i<=n.
+Out:
+Your program should write TAK(YES) if string is permutation and NIE(NO) if it is not.
+
+Examples:
+In:
+3
+1 3 2
+Out:
+TAK
+______
+In:
+4
+1 3 2 1
+Out:
+NIE

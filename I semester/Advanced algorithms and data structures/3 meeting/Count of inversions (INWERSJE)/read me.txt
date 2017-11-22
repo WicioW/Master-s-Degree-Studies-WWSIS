@@ -1,0 +1,15 @@
+There is giver permutation of numbers in array {1,2, ... , n}. Count how many inversions
+are in this array(pair of numbers a and b that a>b and a is before b in array.
+
+In:
+Number n (1<=n<=10^6)
+Permutation of n numbers, separated by single space.
+Out:
+Number of count of inversions in given permutation.
+
+Example:
+In:
+6
+4 3 1 6 5 2
+Out:
+8

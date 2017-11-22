@@ -1,0 +1,15 @@
+Frank driving a car hit sorted string of natural numbers. Now he need to sort it
+again. Help him.
+
+In:
+Number n< 10000.
+N numbers smaller than 10000.
+Out:
+Sorted array of numbers.
+
+Example:
+In:
+4
+2 3 4 1
+Out:
+1 2 3 4

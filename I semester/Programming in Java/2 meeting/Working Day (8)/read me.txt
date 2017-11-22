@@ -1,0 +1,27 @@
+Program need to write down days of November 2013 with information
+if is it working day in Poland or free(with holidays).
+
+Transalation:
+Listopad - November 
+Wolny - Day off
+Pracuj¹cy - Working day
+
+Example:
+1 Listopad - Wolny
+2 Listopad - Wolny
+3 Listopad - Wolny
+4 Listopad - Pracuj¹cy
+5 Listopad - Pracuj¹cy
+6 Listopad - Pracuj¹cy
+7 Listopad - Pracuj¹cy
+8 Listopad - Pracuj¹cy
+9 Listopad - Wolny
+10 Listopad - Wolny
+11 Listopad - Wolny
+12 Listopad - Pracuj¹cy
+13 Listopad - Pracuj¹cy
+...
+29 Listopad - Pracuj¹cy
+30 Listopad - Wolny
+
+

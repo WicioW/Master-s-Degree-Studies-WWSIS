@@ -1,0 +1,21 @@
+Your program needs to write down numbers from 0 to 100. If number is divisible
+by 3, instead of number write "Fizz". If number is divisible by 5, write
+"Buzz". If number is divisible by 3 and 5, write "Fizzbuzz". 
+
+Example:
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+...
