@@ -1,0 +1,19 @@
+There is a game. You put your pawn on the board on the square with number 0.
+You have to throw a dice and move your pawn by the number you got. 
+In all squares there are different numbers. If your pawn lands on some square
+you have to add up this number to the numbers you got earlier in the same way.
+The point of this game is to get the biggest number.
+
+In:
+In first line you get number n, number of squares on the board. (1 <= n <= 1 000 0000)
+In the second line there are numbers on each square p0,p1, ... ,pn-1 (-1000 <= pi <= 1000)
+Out:
+Only one number with a sum of the biggest number you can get according to rules above.
+
+
+Example:
+In:
+5
+3 1 -2 -1 3
+Out:
+7

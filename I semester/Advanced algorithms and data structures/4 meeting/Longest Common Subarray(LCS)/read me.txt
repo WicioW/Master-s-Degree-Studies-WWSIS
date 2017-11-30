@@ -1,0 +1,15 @@
+This is common LCS program.
+Write a program which for two arrays of small english letters of alphabet(containing at most 100 letters)
+will calculate the length of their longest possible subarray.
+
+In:
+Two strings of letters.
+Out:
+Length of longest common subarray
+
+Example:
+In:
+abc
+bca
+Out:
+2

@@ -1,0 +1,30 @@
+There is a given array with dimensions n x m. Elements of this array are natural numbers.
+The path through the array we call string of coordinates of this array
+(w0,0), (w1,1), ..., (wm-1,m-1).
+Rules:
+0<= wi <= n-1 for each i=0, ..., m-1
+|wi- w(i-1)| <= 1 for each i=1, ...., m-1   
+
+The cost of the path we will call sum of the numbers that are on the squares on the path.
+
+Write a program that will find the path with the smallest cost. If there are many paths,
+your program should write one of them.
+
+In:
+In the first line are two numbers n and m(dimensions of the array).
+Respectively number of rows and number of columns.
+Both smaller than 1000.
+In the next lines - m*n elements of the array. (writen down in rows)
+Out:
+In line your program has to write out a string of numbers w0,w1, ... wm-1
+which are the row coordinates of each element in the smallest cost path.
+
+Example:
+In:
+4 3
+2 3 1
+2 1 6
+5 0 4
+1 4 5
+Out:
+0 1 0
