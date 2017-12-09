@@ -1,0 +1,21 @@
+Bank wants their cash machines to pay their clients with as small
+amount of bills as possible. They hired you to help them.
+
+In:
+In first line there is n number of denominations (1<=n<=200)
+Second line is an array of numbers(denominations) 1<=b_i<=20000 
+provided with one space between them.
+Each denomination has quantity of 1.(numbers can appear more than once)
+In last line there is one number 1<=k<=20000
+which client wants to withdraw from cash machine.
+Out:
+Print out  one the smallest number of bank notes needed to withdraw k money.
+Print -1 if it is impossible.
+
+Example:
+In:
+6
+1 1 4 5 7 9
+18
+Out:
+3

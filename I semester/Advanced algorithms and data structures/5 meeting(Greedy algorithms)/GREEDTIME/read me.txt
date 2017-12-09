@@ -1,0 +1,34 @@
+You have to come up with a plan of tasks for a day.
+You are provided with pairs of numbers. 
+First number is the time of startof each task. 
+Second number tells you duration of each task.
+There are many tasks and your job is to come up 
+with a plan of the day, in which you 
+can have as many tasks as possible. But tasks CAN'T overlap each other.
+
+In:
+In first line number n (1<=n<=10^6).
+In next lines there are n pairs of numbers a_i, b_i.
+0<= a_i <= 10^9
+0<= b_i
+a_i + b_i <= 10^9
+1st:Start time of task.
+2nd:Duration of task.
+Tasks are not provided in any order.
+
+Out:
+One number which is maximum of possible tasks that can be done.
+Tasks can not overlap! 
+Next task can start as soon as earlier has ended. (Same time)
+
+Example:
+In:
+3
+10 10
+12 13
+20 10
+Out:
+2
+
+*Task can start at time 10, last till number 20, and at 20 next task can start.
+

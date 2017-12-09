@@ -1,0 +1,26 @@
+Train was going from town to town. Unfortunately engine has failed.
+There are cabs coming to move passengers to original destination.
+We need to use as little cabs as possible.
+Passengers don't want to be separated 
+from other passengers with whom they rode in one compartment.
+One compartment is for 4 passengers, the same as one taxi.
+
+In:
+In first line there is number n (1<=n<=10^5) of groups of passengers.
+In next line there is array of numbers. 
+Numbers of people in each compartment ai. (1<= ai <=4)
+Out:
+Smallest possible number of cabs we need to move all passengers.
+
+Example:
+In:
+5
+1 2 4 3 3
+Out:
+4
+
+*We can send group number 3 in first taxi.
+Group number 4 in second taxi.
+Group number 5 in third taxi.
+First and second group in last taxi.
+

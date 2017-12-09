@@ -1,0 +1,20 @@
+There is given set of number and number n.
+Program has to print out numbers that it will use so they all sum up to provided
+number n.
+Like paying with specific bills to pay for something.
+
+In:
+In first line: First number(not bigger than 100) tells how many numbers will be in
+provided array of numbers. Next numbers are from the array in descending order.
+Is second line there is number n(0<=n<=2000).
+Out:
+Program has to print out numbers that will add up to number n. 
+They have to in descending order too. 
+Program has to use biggest numbers it can.
+
+Example:
+In:
+7 100 50 20 10 5 2 1
+42
+Out:
+20 20 2
