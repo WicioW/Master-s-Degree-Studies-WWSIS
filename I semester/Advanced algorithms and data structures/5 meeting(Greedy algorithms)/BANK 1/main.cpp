@@ -30,8 +30,6 @@ int main()
         {
             int a = n;
             int b = n - values[m];
-            //if((a-b)<2) cout << "KURWA" <<a<<","<<b;
-            //spr
            // cout << "a:" << a << endl;
             //cout << "b:" << b << endl;
 
