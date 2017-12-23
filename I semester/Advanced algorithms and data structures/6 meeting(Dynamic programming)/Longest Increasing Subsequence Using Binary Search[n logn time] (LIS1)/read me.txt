@@ -1,0 +1,18 @@
+Write a program that for a given array of numbers a1,a2,...an will print out the longest increasing
+subsequence. Because program may find many subsequences fullfilling given task, it should 
+additionally print out only the array that is smallest lexicographically.
+
+In:
+In first line there is given length n (1<=n<=10^6)
+In second line there is n natural numbers a1,a2,...,an (1<=...<=10^6)
+Out:
+Length of the longest increasing subsequence.
+Smallest lexicographically subsequence.
+
+Example:
+In:
+13
+16 5 8 6 1 10 5 2 15 3 2 4 1
+Out:
+4
+1 2 3 4

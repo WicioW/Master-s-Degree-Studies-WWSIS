@@ -1,0 +1,16 @@
+Similar to earlier task but harder. Much longer array.
+
+Write a program that for given array of numbers a1,a2,...,an will print out 
+lenght of not decreasing subsequence.
+
+In:
+In first line there is given length of the array n (1<=n<=10^6).
+in second line there is n natural numbers a1,a2,...,an within a range[1<=...<=10^6]
+Out:
+Length of the longest not decreasing subsequence
+
+Example:
+10
+5 3 2 5 4 2 1 9 100 90
+Out:
+4
