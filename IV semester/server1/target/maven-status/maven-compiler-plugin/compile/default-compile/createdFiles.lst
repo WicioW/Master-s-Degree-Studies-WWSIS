@@ -1,0 +1,7 @@
+pl\wwsis\server1\rest\service\RestService.class
+pl\wwsis\server1\Configurator.class
+pl\wwsis\server1\service\UserService.class
+pl\wwsis\server1\rest\JaxRsActivator.class
+pl\wwsis\server1\rest\dto\UserDTO.class
+pl\wwsis\server1\model\User.class
+pl\wwsis\server1\dao\UserDao.class
